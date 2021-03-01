@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "name": "Lev Yashin",
+    "salary": 2850000,
+    "club": "Dynamo Moscow",
+    "country": "Russia",
+    "img": "https://static.toiimg.com/thumb/msid-64565974,width-1200,height-900,resizemode-4/.jpg",
+    "jersey": 1
+  }, {
+    "id": 2,
+    "name": "Roberto Carlos",
+    "salary": 5800000,
+    "club": "Real Madrid",
+    "country": "Brazil",
+    "img": "https://soccafederation.com/wp-content/uploads/2017/08/Roberto-Carlos-2.jpg",
+    "jersey": 6
+  }, {
+    "id": 3,
+    "name": "Paolo Maldini",
+    "salary": 2330000,
+    "club": "AC Milan",
+    "country": "Italy",
+    "img": "https://secure.static.goal.com/42600/42604_gallery.jpg",
+    "jersey": 3
+  }, {
+    "id": 4,
+    "name": "Franz Beckenbauer",
+    "salary": 1200000,
+    "club": "Bayern Munich",
+    "country": "West Germany",
+    "img": "https://pbs.twimg.com/profile_images/2987533581/d19d15cf1e28694de657465d98d3c0c2_400x400.jpeg",
+    "jersey": 5
+  }, {
+    "id": 5,
+    "name": "Cafu",
+    "salary": 5320000,
+    "club": "AC Milan",
+    "country": "Brazil",
+    "img": "https://i.pinimg.com/originals/b6/93/d6/b693d6253c044a02f5c5ea1663903cb7.jpg",
+    "jersey": 2
+  }, {
+    "id": 6,
+    "name": "Thiago Silva",
+    "salary": 9050000,
+    "club": "Chelsea",
+    "country": "Brazil",
+    "img": "https://s.yimg.com/xe/i/us/sp/v/soccer/wc/players/374271.3.png",
+    "jersey": 4
+  }, {
+    "id": 7,
+    "name": "Pele",
+    "salary": 69200000,
+    "club": "Santos",
+    "country": "Brazil",
+    "img": "https://imagevars.gulfnews.com/2020/02/11/Pele_1703434cb9b_large.jpg",
+    "jersey": 10
+  }, {
+    "id": 8,
+    "name": "Maradona",
+    "salary": 62800000,
+    "club": "Napoli",
+    "country": "Argentina",
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/25/full/1606325733-2396.jpg",
+    "jersey": 11
+  }, {
+    "id": 9,
+    "name": "Messi",
+    "salary": 53100000,
+    "club": "Barcelona",
+    "country": "Argentina",
+    "img": "https://www.gannett-cdn.com/presto/2020/08/25/USAT/842737a0-5b6c-47bc-adbc-ea5bef879661-Messi_gone.jpg",
+    "jersey": 19
+  }, {
+    "id": 10,
+    "name": "Ronaldinho",
+    "salary": 30400000,
+    "club": "Barcelona",
+    "country": "Brazil",
+    "img": "https://www.sportphotogallery.com/content/images/cmsfiles/product/22752/23008-list.jpg",
+    "jersey": 8
+  }, {
+    "id": 11,
+    "name": "Zinedine Zidane",
+    "salary": 30600000,
+    "club": "Real Madrid",
+    "country": "France",
+    "img": "https://secure.static.goal.com/50200/50264_gallery.jpg",
+    "jersey": 14
+  }, {
+    "id": 12,
+    "name": "David Beckham",
+    "salary": 30500000,
+    "club": "Real Madrid",
+    "country": "England",
+    "img": "https://www.dw.com/image/16819745_401.jpg",
+    "jersey": 12
+  }, {
+    "id": 13,
+    "name": "Neymar",
+    "salary": 52800000,
+    "club": "PSG",
+    "country": "Brazil",
+    "img": "https://en.as.com/futbol/imagenes/2019/05/07/internacional/1557239971_866699_1557239999_noticia_normal.jpg",
+    "jersey": 13
+  }, {
+    "id": 14,
+    "name": "Ronaldo",
+    "salary": 50100000,
+    "club": "Real Madrid",
+    "country": "Brazil",
+    "img": "https://cdn.kickoff.com/cms2/image_manager/uploads/News/590261/7/default.jpg",
+    "jersey": 9
+  }, {
+    "id": 15,
+    "name": "Cristiano Ronaldo",
+    "salary": 55100000,
+    "club": "Real Madrid",
+    "country": "Portugal",
+    "img": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/06/05/143417-untitled-design-54.jpg",
+    "jersey": 7
+  }]

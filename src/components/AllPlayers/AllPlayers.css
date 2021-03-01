@@ -1,0 +1,19 @@
+.player{
+    height: 500px;
+    width: 250px;
+    margin: 10px;
+    background-color: lightslategray;
+    border-radius: 10px;
+}
+.player-img img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+.player-des{
+    border: none;
+    border-radius: 0 0 10px 10px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}

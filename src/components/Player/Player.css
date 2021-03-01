@@ -1,0 +1,12 @@
+.team-container{
+    display: flex;
+}
+.all-players-container{
+    width: 65%;
+    border-right: 1px solid gray;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.selected-players-container{
+    margin: 20px;
+}
